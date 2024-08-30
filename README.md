@@ -24,7 +24,7 @@ The monthly contract length shows the highest churn rate, suggesting that custom
  *Churn by Usage Frequency
  
 The chart indicates a correlation between churn and usage frequency.
-Lower usage frequency is associated with higher churn, especially in the range of 0-500 churned customers.
+Lower usage frequency is associated with higher churn
 
  *Churn by Gender
  
@@ -41,4 +41,6 @@ The sum of churn is higher for customers in the older age brackets (40+).
 - High-Risk Segments: Older customers, customers with monthly contracts, and male customers represent higher churn risks.
 - Customer Retention Focus: Strategies should be focused on retaining customers with monthly contracts and older customers, as they are more likely to churn.
 - Targeted Interventions: Special attention may be required for customers with low usage frequency to prevent churn.
+
+  <img width="860" alt="churn analysis jpg" src="https://github.com/user-attachments/assets/f39265a1-21e9-4155-ad39-e19d65983751">
   
